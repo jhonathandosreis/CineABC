@@ -24,13 +24,6 @@ Cine ABC
 
 ## 📚 Contexto do Problema
 
-ESTRATÉGIA DE APRENDIZAGEM DESAFIADORA:
-Projeto (elaboração ou execução)
-DESCRIÇÃO DA ESTRATÉGIA DE APRENDIZAGEM DESAFIADORA
-Tema: Venda de Ingresso de Cinema
-
-Contextualização:
-
 A empresa Cine ABC deseja automatizar sua bilheteria, para isso, está contratando sua empresa de desenvolvimento de software para a construção desse sistema. O software solicitado deverá conter no mínimo as seguintes funcionalidades:
 
 Comprar Ingresso: essa funcionalidade deverá permitir com que o usuário selecione qual poltrona irá ocupar, bem como se irá pagar meia entrada ou inteira.
